@@ -27,3 +27,11 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Adding plugins from CLI
+```$ vue add plugin-name```<br>
+Choose defualt when setting up.
+
+### Note:
+Look inside App.vue that's where all the notes are.
