@@ -30,7 +30,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### Adding plugins from CLI
-```$ vue add plugin-name```<br>
+```
+$ vue add plugin-name
+```<br>
 Choose defualt when setting up.
 
 ### Note:
